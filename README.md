@@ -15,6 +15,12 @@ Play around with different values and starting positions (up to 3).  This amazin
 
 ---------------------------------
 
+<h1>Source Code:</h1>
+
+**oneDautomata.cs** contains all of the C# source code written for this plugin, located in this repository's base directory.
+
+--------------------------------
+
 <h2 align="center">
   Below are some rendering examples from what can be achieved with this plugin.  Try layering different rulesets to see what you can render!  Some pretty wild designs will reveal themselves from this algorithm.
 </h2>
